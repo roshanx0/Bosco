@@ -3,7 +3,7 @@
 
 # Bosco Bot
 <p align="center">
- <a href="https://github.com/pepesir"><img title="Author" src="https://img.shields.io/badge/OWNER-h?color=black&style=for-the-badge&logo=github"></a>  <a href="https://Wa.me/+917736622139?text=Hii"><img title="Author" src="https://img.shields.io/badge/Author P3P3 Sir-h?color=black&style=for-the-badge&logo=whatsapp"></a>
+ <a href="https://github.com/roshanx0"><img title="Author" src="https://img.shields.io/badge/OWNER-h?color=black&style=for-the-badge&logo=github"></a>  <a href="https://Wa.me/+917736622139?text=Hii"><img title="Author" src="https://img.shields.io/badge/Contact -h?color=black&style=for-the-badge&logo=whatsapp"></a>
 <p align="center">
 </p>
 
@@ -13,9 +13,9 @@
 >
 
 <p align="center">
-  <a href="https://github.com/pepesir/Bosco#requirements">Requirements</a> •
-  <a href="https://github.com/pepesir/Bosco#simple-method">Installation</a> •
-  <a href="https://github.com/pepesir/Bosco#thanks-to">Thanks to</a>
+  <a href="https://github.com/roshanx0/Bosco#requirements">Requirements</a> •
+  <a href="https://github.com/roshanx0/Bosco#simple-method">Installation</a> •
+  <a href="https://github.com/roshanx0/Bosco#thanks-to">Thanks to</a>
 </p>
 </div>
 
@@ -26,7 +26,7 @@
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@pepesir/PEPE-SIR-Qr-code?v=1) 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pepesir/Bosco/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/roshanx0/Bosco/)
 
 ### `ADD BUILDPACK`
 
@@ -52,7 +52,7 @@ pkg install git
 pkg install bash
 ```
 ```
-git clone https://github.com/pepesir/Bosco.git 
+git clone https://github.com/roshanx0/Bosco.git 
 ```
 ```
 cd Bosco
